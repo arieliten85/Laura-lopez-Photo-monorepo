@@ -1,0 +1,112 @@
+:root {
+  /* Background Colors */
+  --body-bg-color: #fbfbfb;
+  --primary-bg-color: #f9f7f2;
+
+  /* Text Colors */
+  --primary-text-link: rgb(154, 158, 154);
+  --primary-text-color: #877964;
+  --text-color-black: black;
+  --text-color-white: white;
+
+  /* Button Colors */
+  --button-background-color: #aca293;
+
+  /* Additional Colors */
+
+  --color-grey-ligth: rgb(201, 189, 170);
+  --color-grey-dark: #867862;
+
+  /* Font Families */
+  --text-font-primary: "Fira Sans", sans-serif;
+  --text-font-secondary: Georgia, "Times New Roman", Times, serif;
+  --text-font-regular: Verdana, Geneva, Tahoma, sans-serif;
+  --text-font-section: "Cormorant Garamond", serif;
+  /* --text-font-secction: "Times New Roman", Times, serif; */
+
+  /* Sizes */
+  --size-5: 5px;
+  --size-10: 10px;
+  --size-15: 15px;
+  --size-20: 20px;
+  --size-30: 30px;
+  --size-35: 35px;
+  --size-40: 40px;
+  --size-45: 45px;
+  --size-50: 50px;
+
+  /* Spacing */
+  --spacing-10: 10px;
+  --spacing-20: 20px;
+  --spacing-30: 30px;
+  --spacing-35: 35px;
+  --spacing-40: 40px;
+  --spacing-80: 80px;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  text-decoration: none;
+  list-style: none;
+}
+body {
+  font-family: "Fira Sans", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+
+  overflow-x: hidden !important;
+}
+
+.MuiCard-root {
+  cursor: pointer !important;
+}
+
+.swiper-slide {
+  padding: 0 !important;
+  min-height: auto;
+}
+
+.customButton {
+  text-transform: uppercase;
+  transition: 0.3s;
+  padding: 12px 24px;
+  font-size: 1rem !important;
+  color: white;
+  background-color: var(--color-grey-ligth);
+  border: none;
+
+  cursor: pointer;
+}
+
+.customButton-secction {
+  margin-top: 50px;
+}
+
+.customButton:hover {
+  background-color: var(--color-grey-dark);
+}
+
+h1 {
+  font-family: var(--text-font-section);
+  font-weight: 400;
+}
+h2 {
+  font-weight: 200;
+  font-family: var(--text-font-regular);
+}
+
+/* GALLERY */
+
+.gallery-title {
+  color: var(--primary-text-color);
+  font-size: 10vmin;
+  text-align: center;
+
+  margin-top: 100px;
+
+  font-family: "Zeyada", cursive;
+  font-weight: 400;
+  font-style: normal;
+}

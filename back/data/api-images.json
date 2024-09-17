@@ -1,0 +1,104 @@
+[
+  {
+    "category": "babySixMoths",
+    "images": [
+      { "img": "/images/babySixMoths/img01.avif" },
+      { "img": "/images/babySixMoths/img02.avif" },
+      { "img": "/images/babySixMoths/img03.avif" },
+      { "img": "/images/babySixMoths/img04.avif" },
+      { "img": "/images/babySixMoths/img05.avif" },
+      { "img": "/images/babySixMoths/img06.avif" }
+    ]
+  },
+  {
+    "category": "communion",
+    "images": [
+      { "img": "/images/communion/img01.avif" },
+      { "img": "/images/communion/img02.avif" },
+      { "img": "/images/communion/img03.avif" },
+      { "img": "/images/communion/img04.avif" },
+      { "img": "/images/communion/img05.avif" },
+      { "img": "/images/communion/img06.avif" }
+    ]
+  },
+  {
+    "category": "family",
+    "images": [
+      { "img": "/images/family/img01.avif" },
+      { "img": "/images/family/img02.avif" },
+      { "img": "/images/family/img03.avif" },
+      { "img": "/images/family/img04.avif" },
+      { "img": "/images/family/img05.avif" },
+      { "img": "/images/family/img06.avif" }
+    ]
+  },
+  {
+    "category": "maternity",
+    "images": [
+      { "img": "/images/maternity/img01.avif" },
+      { "img": "/images/maternity/img02.avif" },
+      { "img": "/images/maternity/img03.avif" },
+      { "img": "/images/maternity/img04.avif" },
+      { "img": "/images/maternity/img05.avif" },
+      { "img": "/images/maternity/img06.avif" }
+    ]
+  },
+  {
+    "category": "newBorn",
+    "images": [
+      { "img": "/images/newBorn/img01.avif" },
+      { "img": "/images/newBorn/img02.avif" },
+      { "img": "/images/newBorn/img03.avif" },
+      { "img": "/images/newBorn/img04.avif" },
+      { "img": "/images/newBorn/img05.avif" },
+      { "img": "/images/newBorn/img06.avif" }
+    ]
+  },
+  {
+    "category": "smashCake",
+    "images": [
+      { "img": "/images/smashCake/img01.avif" },
+      { "img": "/images/smashCake/img02.avif" },
+      { "img": "/images/smashCake/img03.avif" },
+      { "img": "/images/smashCake/img04.avif" },
+      { "img": "/images/smashCake/img05.avif" },
+      { "img": "/images/smashCake/img06.avif" }
+    ]
+  },
+  {
+    "category": "wedding",
+    "images": [
+      { "img": "/images/wedding/img01.avif" },
+      { "img": "/images/wedding/img02.avif" },
+      { "img": "/images/wedding/img03.avif" },
+      { "img": "/images/wedding/img04.avif" },
+      { "img": "/images/wedding/img05.avif" },
+      { "img": "/images/wedding/img06.avif" }
+    ]
+  },
+  {
+    "category": "gallery",
+    "images": [
+      { "img": "/images/gallery/img01.avif" },
+      { "img": "/images/gallery/img02.avif" },
+      { "img": "/images/gallery/img03.avif" },
+      { "img": "/images/gallery/img04.avif" },
+      { "img": "/images/gallery/img05.avif" },
+      { "img": "/images/gallery/img06.avif" },
+      { "img": "/images/gallery/img07.avif" },
+      { "img": "/images/gallery/img08.avif" },
+      { "img": "/images/gallery/img09.avif" },
+      { "img": "/images/gallery/img10.avif" },
+      { "img": "/images/gallery/img11.avif" },
+      { "img": "/images/gallery/img12.avif" },
+      { "img": "/images/gallery/img13.avif" },
+      { "img": "/images/gallery/img14.avif" },
+      { "img": "/images/gallery/img15.avif" },
+      { "img": "/images/gallery/img16.avif" },
+      { "img": "/images/gallery/img17.avif" },
+      { "img": "/images/gallery/img18.avif" },
+      { "img": "/images/gallery/img19.avif" },
+      { "img": "/images/gallery/img20.avif" }
+    ]
+  }
+]

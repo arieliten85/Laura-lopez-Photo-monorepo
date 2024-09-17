@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "title": "Recién nacido",
+    "path": "/sesiones/recien-nacido/",
+    "image": "/path-to-assets/newBorn/category/headline/img01.avif"
+  },
+  {
+    "id": 2,
+    "title": "Maternidad",
+    "path": "/sesiones/maternidad/",
+    "image": "/path-to-assets/maternity/category/headline/img01.avif"
+  },
+  {
+    "id": 3,
+    "title": "Familia",
+    "path": "/sesiones/familia/",
+    "image": "/path-to-assets/family/category/headline/img01.avif"
+  },
+  {
+    "id": 4,
+    "title": "SmashCake",
+    "path": "/sesiones/smashcake/",
+    "image": "/path-to-assets/smashCake/category/headline/img01.avif"
+  },
+  {
+    "id": 5,
+    "title": "Bebes + 6 meses",
+    "path": "/sesiones/bebe-de-6-meses/",
+    "image": "/path-to-assets/sixMonths/category/headline/img01.avif"
+  },
+  {
+    "id": 6,
+    "title": "Comunion",
+    "path": "sesiones/comunion",
+    "image": "/path-to-assets/communion/category/headline/img01.jpg"
+  }
+]

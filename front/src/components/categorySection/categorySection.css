@@ -1,0 +1,28 @@
+.category-section {
+  width: 100%;
+  padding: 20px;
+}
+
+.category-section__grid {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.category-section__media {
+  height: auto;
+  width: 100%;
+  object-fit: cover;
+  box-shadow: none !important;
+}
+
+.category-section__card {
+  cursor: pointer;
+  margin: 10px !important;
+  box-shadow: none !important;
+}
+
+.category-section__title {
+  color: var(--primary-text-color);
+  text-align: center;
+  font-family: var(--text-font-secondary) !important;
+}

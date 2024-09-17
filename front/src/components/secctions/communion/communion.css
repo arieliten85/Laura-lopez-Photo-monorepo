@@ -1,0 +1,88 @@
+.communion-content {
+  background-color: var(--primary-bg-color);
+  width: 100%;
+
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 30px;
+}
+
+.communion-title {
+  padding-bottom: 30px;
+  text-transform: uppercase;
+  font-family: var(--text-font-secondary);
+  font-size: 24px;
+  color: #877964;
+  text-align: center;
+}
+
+.communion-text {
+  font-size: 18px;
+  font-family: var(--text-font-section);
+  color: var(--color-grey-dark);
+  text-align: justify;
+  padding: 10px;
+  line-height: 28px;
+}
+
+.communion-icon-container {
+  text-align: center;
+}
+
+.communion-firstSection-icon {
+  max-width: 80px;
+  margin: 20px auto;
+}
+
+.communion-firstSection-container,
+.communion-secondSection-container {
+  max-width: 1200px;
+  width: 100%;
+  padding: 0 20px;
+
+  margin: 0 auto;
+  padding: var(--spacing-80) 0;
+}
+
+.communion-secondSection-container .communion-title {
+  font-size: 30px;
+}
+
+.communion-gallery-container {
+  padding: 20px;
+}
+
+.communion-gallery-card {
+  margin: 10px;
+}
+
+.communion-gallery-card_media {
+  height: 100%;
+  box-shadow: none !important;
+  object-fit: cover;
+}
+
+.communion-dialog-paper {
+  background-color: rgba(0, 0, 0, 0.9) !important;
+  max-width: 95vw;
+  max-height: 95vh;
+  margin: 0 !important;
+  width: calc(100% - 20px) !important;
+}
+
+.communion-dialog-content {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  position: relative;
+  padding: 0 !important;
+}
+
+.communion-expanded-image {
+  width: 100% !important;
+  height: auto;
+  max-height: 80vh;
+  object-fit: contain;
+}
